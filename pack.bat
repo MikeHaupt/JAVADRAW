@@ -1,0 +1,1 @@
+jpackage --input ./ --module-path "C:\javafx-jmods-17.0.2" --add-modules javafx.controls --type exe --main-jar ./com.mhauptart.drawstuff.jar
